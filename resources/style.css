@@ -29,6 +29,11 @@ img {
     width: auto;
 }
 
+.image_box {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .footer {
     text-align:  right;
     color: gray;
